@@ -20,8 +20,6 @@ In this lesson, we'll learn all about the **D**ocument **O**bject **M**odel, or 
 
 ## Getting Started
 
-## Set Up
-
 - Fork and Clone
 - `touch app.js`
 - `touch index.html`
