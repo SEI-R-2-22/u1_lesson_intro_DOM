@@ -29,22 +29,22 @@ In this lesson, we'll learn all about the **D**ocument **O**bject **M**odel, or 
 
 **`app.js`:**
 
-1. `console.log('stranger things are coming!')`
+- `console.log('stranger things are coming!')`
 
 **`index.html`**
 
-1. `! tab` - to insert html boilder plate
-1. set title to `Hawkins` inside the head
+- `! tab` - to insert html boiler plate
+- set title to `Hawkins` inside the head
 
 **`index.html` => `body`:**
 
-1.`<h1>` - with the text 'Welcome to Hawkins' 1.`<div>` with a class of `container`
+- `<h1>` - with the text 'Welcome to Hawkins' 1.`<div>` with a class of `container`
 
 **`index.html` => `body` => `div.container`:**
 
-1. `<img>` with a `src` of `https://londontheinside.com/wp-content/uploads/2017/11/StrangerThings2.png` and an `alt` of `Welcome to Hawkins`
-1. `<h3>` with text `Featuring`
-1. `<ul>`
+- `<img>` with a `src` of `https://londontheinside.com/wp-content/uploads/2017/11/StrangerThings2.png` and an `alt` of `Welcome to Hawkins`
+- `<h3>` with text `Featuring`
+- `<ul>`
 
 ```html
 <ul>
@@ -56,13 +56,14 @@ In this lesson, we'll learn all about the **D**ocument **O**bject **M**odel, or 
 </ul>
 ```
 
-1. Inside the `head` tag add `src tab` to add a `scriptsrc`
+- Inside the `head` tag add `src tab` to add a `scriptsrc`
    link the `app.js`
 
 `<script src="app.js" charset="utf-8"></script>`
 
-1. Load `index.html` in the browser
-1. `command option j` to open Chrome Developer Console
+- Load `index.html` in the browser
+
+- `command option j` to open Chrome Developer Console
 
 - Our html
 
