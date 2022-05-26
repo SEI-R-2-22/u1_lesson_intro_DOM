@@ -90,7 +90,7 @@ Being able to relate the different elements in this way is often referred to as 
 ### DOM
 
 The DOM stands for Document Object Model.
-When we send HTML to a browser, like we did with our mini Hawkins site, the browser renders the HTML (displays it in a window) and it also creates a giant object that represents the web page. If you are a fan of Stranger Things, you could almost think of the DOM as The Upside Down, a parallel world that is only visible to some (and also, not evil).
+When we send HTML to a browser, like we did with our mini Hawkins site, the browser renders the HTML (displays it in a window) and it also creates a giant object that represents the web page. If you are a fan of Stranger Things, you could almost think of the DOM as The Upside Down, a parallel world that is only visible to some (and while maybe not *evil* it can certainly cause a few headaches as you start getting further into it).
 
 As web developers, we can interact with this object (DOM) and we can make changes to the DOM, the browser will then redraw the web page to reflect the changes we made to the DOM.
 
