@@ -6,6 +6,8 @@
 
 In this lesson, we'll learn all about the **D**ocument **O**bject **M**odel, or **DOM** and how it became a necessary part of web development. We'll learn how to access and manipulate those elements.
 
+DOM Manipulation is how we are going to use our JS to override and control our HTML and CSS. It is going to be one of the most important concepts we learn in this class, and something that we will be working with every week from here on in.
+
 ## Lesson Objectives
 
 - Define the DOM
